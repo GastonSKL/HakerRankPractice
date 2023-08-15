@@ -22,4 +22,4 @@ function gradingStudents(grades) {
     return grades;
 }
 
-console.log(gradingStudents(grades));
+console.log(gradingStudents(grades));  
